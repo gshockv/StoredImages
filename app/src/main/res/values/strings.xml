@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StoreImages</string>
+
+    <string name="activityImagesListTitle">Store Images</string>
+
+    <string name="emptyImagesMessage">There are no uploaded images yet</string>
+    <string name="buttonAddImage">Add Image</string>
+    <string name="activityAddImageTitle">Add Image</string>
+    <string name="buttonSave">Save</string>
+</resources>

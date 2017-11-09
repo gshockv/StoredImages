@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1037236050207",
+    "firebase_url": "https://storageimages-c319e.firebaseio.com",
+    "project_id": "storageimages-c319e",
+    "storage_bucket": "storageimages-c319e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037236050207:android:b9132edbd362f0f1",
+        "android_client_info": {
+          "package_name": "com.gshockv.storeimages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037236050207-4d41h93gcdrcp953r40m7regbl3f4lee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs9ahLPzmnswJFc3BvZQKU39Ct9LOkids"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
